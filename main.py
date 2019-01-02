@@ -5,7 +5,7 @@ import cv2
 
 
 
-imagepath = "../yolo-object-detection/images/dining_table.jpg"
+imagepath = "images/dining_table.jpg"
 
 yolofiles = {
   "config":  "yolo-coco/yolov3.cfg",
