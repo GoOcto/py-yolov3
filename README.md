@@ -4,7 +4,7 @@ An android implementation of OpenCV-Yolov3 (compliments of darknet https://githu
 
 ## Installation
 
-###Obtain neural net config files:
+### Obtain neural net config files:
 
 ```
 mkdir yolo-coco
@@ -13,14 +13,14 @@ wget https://github.com/pjreddie/darknet/tree/master/cfg/yolov3.cfg yolo-coco/yo
 wget https://github.com/pjreddie/darknet/tree/master/data/coco.names yolo-coco/coco.names
 ```
 
-###Install Python modules
+### Install Python modules
 
 ```
 pip install numpy
 pip install opencv-python
 ```
 
-###Process an image
+### Process an image
 
 Change the code in main.py to point to your image:
 
