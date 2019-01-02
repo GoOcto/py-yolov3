@@ -25,7 +25,7 @@ pip install opencv-python
 Change the code in main.py to point to your image:
 
 ```
-imagepath = "../yolo-object-detection/images/dining_table.jpg"
+imagepath = "images/dining_table.jpg"
 ```
 
 Run the code:
