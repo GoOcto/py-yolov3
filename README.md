@@ -4,13 +4,10 @@ An android implementation of OpenCV-Yolov3 (compliments of darknet https://githu
 
 ## Installation
 
-### Obtain neural net config files:
+### Obtain neural net weight file:
 
 ```
-mkdir yolo-coco
 wget https://pjreddie.com/media/files/yolov3.weights yolo-coco/yolov3.weights
-wget https://github.com/pjreddie/darknet/tree/master/cfg/yolov3.cfg yolo-coco/yolov3.cfg
-wget https://github.com/pjreddie/darknet/tree/master/data/coco.names yolo-coco/coco.names
 ```
 
 ### Install Python modules
