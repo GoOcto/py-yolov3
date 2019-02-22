@@ -30,3 +30,17 @@ Run the code:
 ```
 python main.py
 ```
+
+### Or process video
+
+Change the code in video.py to point to your video:
+
+```
+src = "videos/sample.mp4"
+```
+
+Run the code:
+
+```
+python video.py
+```
